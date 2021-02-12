@@ -1,0 +1,13 @@
+.test {
+  display: flex;
+}
+hr {
+  background: green;
+  width: 0.2%;
+}
+
+.parentDiv {
+  margin-top: 100px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
