@@ -1,0 +1,17 @@
+.custom {
+  margin-left: 100px;
+  margin-right: 800px;
+}
+
+#loginHeading {
+  text-align: left;
+}
+
+#message {
+  text-align: left;
+  color: red;
+}
+
+.flexDisplay {
+  padding-left: 500px;
+}
